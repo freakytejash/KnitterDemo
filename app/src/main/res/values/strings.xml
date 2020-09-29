@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Knitter Test</string>
+
+    <string name="title_users">Knitter Post</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="updated_at">Updated At</string>
+</resources>
